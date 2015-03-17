@@ -31,6 +31,7 @@ require_relative 'backends/connection_pool'
 require_relative 'backends/printer'
 require_relative 'backends/netssh'
 require_relative 'backends/local'
+require_relative 'backends/local_printer'
 require_relative 'backends/skipper'
 
 require_relative 'utils/capture_output_methods'
